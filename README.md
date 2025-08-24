@@ -27,3 +27,15 @@ int main() {
 } 
 ```
 
+Example Output 
+```
+Enter track lenth (in km): 200
+Enter car speed (in km/h): 40
+At 40.00 km/h, the car completes 200.00 km track in 18000.00 seconds.
+```
+
+🎯Future Plans
+* Add support for multiple laps.
+* Compare two cars on the same track.
+* Store result in a CSV file for analysis.
+
